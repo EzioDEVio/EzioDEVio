@@ -1,6 +1,4 @@
-<div align="left">
-  <img src="/GITProfile-image.jpg.jpg" alt="Profile Image" width="460" />
-</div>
+
 
 ### Greetings from the Sunshine State! ☀️🌴
 
